@@ -1,6 +1,6 @@
 ## 👱🏼‍♂️ MakAndJo
 - Interested in PHP, Node.js and Electron development
-- Currently learning Node.js
+- Currently learning React
 - Working for himself
 ## 📫  Contact
 - Email: makandjo@outlook.com
