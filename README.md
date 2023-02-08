@@ -2,6 +2,7 @@
 - Interested in PHP, Node.js and Electron development
 - Currently learning React
 - Working for himself
+- Known languages: C++, C, Batch, Bash, Java, PHP, HTML, CSS, JS, TS, JSON
 ## 📫  Contact
 - Email: makandjo@outlook.com
 - Discord: MakAndJo#1416
