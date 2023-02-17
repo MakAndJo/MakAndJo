@@ -4,8 +4,11 @@
 - 90% of all time working for **himself** and own **GitHub** profile
 ## ⚡ Knowledge
 - Languages: C++, C, Batch, Bash, VBS, Java, PHP, HTML, CSS, JS, TS, Python, Pascal, JSON, YAML, Nginx Conf
-- Libraries/frameworks: React, Babel, Electron, Preact, Laravel
-- Compilers: Webpack, Vite, TSC, gcc, gnu, clang
+- Libraries/frameworks: React, Babel, Electron, Preact, Express, Fastify, Laravel
+- Compilers: Webpack, Babel, Vite, TSC, Gulp, gcc, gnu, clang
+- Testing: Jest, Mocha
+- Analysis: ESLint, JSHint
+- Databases: MySQL, SQLite
 ## 📫 Contacts
 - Email: makandjo@outlook.com
 - Discord: MakAndJo#1416
