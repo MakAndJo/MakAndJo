@@ -8,7 +8,7 @@
 - Compilers: Webpack, Babel, Vite, TSC, Gulp, gcc, gnu, clang
 - Testing: Jest, Mocha
 - Analysis: ESLint, JSHint
-- Databases: MySQL, SQLite
+- Databases: MySQL, SQLite, Redis
 ## 📫 Contacts
 - Email: makandjo@outlook.com
 - Discord: MakAndJo#1416
