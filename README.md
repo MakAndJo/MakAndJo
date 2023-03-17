@@ -7,7 +7,7 @@
 - Libraries/frameworks: React, Babel, Electron, Preact, Express, Fastify, Laravel
 - Compilers: Webpack, Babel, Vite, TSC, Gulp, gcc, gnu, clang
 - Testing: Jest, Mocha
-- Analysis: ESLint, JSHint
+- Analysis: ESLint, JSHint, JSDoc, TSConfig
 - Databases: MySQL, SQLite, Redis
 ## 📫 Contacts
 - Email: makandjo@outlook.com
