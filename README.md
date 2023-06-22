@@ -11,7 +11,7 @@
 - **Databases**: MySQL, SQLite, Redis
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/closed-mailbox-with-raised-flag_1f4eb.png" alt="Zap" width="32" height="32" style="vertical-align:bottom"> Contacts
 - **Email**: makandjo@outlook.com
-- **Discord**: MakAndJo#1416
+- **Discord**: MakAndJo
 - **Twitter**: [@im_byte](https://twitter.com/im_byte)
 - **Instagram**: [@im_byte](https://instagram.com/im_byte)
 - **Telegram**: [@im_byte](https://t.me/im_byte)
