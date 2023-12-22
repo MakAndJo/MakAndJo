@@ -5,7 +5,7 @@
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/high-voltage_26a1.png" alt="Zap" width="32" height="32" style="vertical-align:bottom"> Knowledge
 - **Languages**: C++, C, Batch, Bash, VBS, Java, PHP, HTML, CSS, JS, TS, Python, Pascal, JSON, YAML, Nginx Conf
 - **Libraries/frameworks**: React, Babel, Electron, Preact, Express, Fastify, Laravel
-- **Compilers**: Webpack, Babel, Vite, TSC, Rollup, Tsup Gulp, gcc, gnu, clang
+- **Compilers**: Webpack, Babel, Vite, TSC, Rollup, Tsup, Gulp, gcc, gnu, clang
 - **Testing**: Jest, Mocha
 - **Analysis**: ESLint, JSHint, JSDoc, TSConfig
 - **Databases**: MySQL, SQLite, Redis
