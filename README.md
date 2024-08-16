@@ -13,10 +13,8 @@
 - **Email**: makandjo@outlook.com
 - **Discord**: MakAndJo
 - **Twitter**: [@im_byte](https://twitter.com/im_byte)
-- **Instagram**: [@im_byte](https://instagram.com/im_byte)
 - **Telegram**: [@im_byte](https://t.me/im_byte)
 - **TikTok**: [@im_byte](https://www.tiktok.com/@im_byte)
-- **YouTube**: [@im_byte](https://www.youtube.com/@im_byte)
 - **Steam**: [MakAndJo](https://steamcommunity.com/profiles/76561199388252289/)
 - **OSU**: [MakAndJo](https://osu.ppy.sh/users/28574170)
 <!---
